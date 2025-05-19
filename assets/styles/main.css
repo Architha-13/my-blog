@@ -1,1 +1,4 @@
-.p{color: red;}
+.p{width: 2px;
+border: 2px solid black;
+color: red;}
+
